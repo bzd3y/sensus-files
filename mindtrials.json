@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "Relationships",
+        "Title": "Relationships",
+        "Sessions": [
+            {
+                "Number": 1,
+                "Name": "Session1",
+                "Title": "Session 1",
+                "Scenarios": [
+                    {
+                        "Number": 1,
+                        "Name": "Scenario1",
+                        "Title": "Scenario 1",
+                        "Image": "",
+                        "ImageType": "",
+                        "ImageEmbeded": "",
+                        "Description": "As you are walking down a crowded street, you see your neighbor on the other side.\n\nYou call out, but they do not answer you.\n\nStanding there in the street, you think that this must be because they were...",
+                        "IncorrectFeedback": "Whoops! That doesn’t look right. Please wait a moment and try again.",
+                        "Words": [ "Distracted" ],
+                        "Question": "Did your neighbor purposely ignore your call to them in the street?",
+                        "Answer": "No"
+                    }
+                ]
+            }
+        ]
+    }
+]
