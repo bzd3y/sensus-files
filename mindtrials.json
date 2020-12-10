@@ -54,5 +54,33 @@
                 ]
             }
         ]
+    },
+    {
+        "Name": "Handling Uncertainty",
+        "Title": "Handling Uncertainty",
+        "Sessions": [
+            {
+                "Number": 1,
+                "Name": "Session1",
+                "Title": "Session 1",
+                "Scenarios": [
+                    {
+                        "Number": 1,
+                        "Name": "Scenario1",
+                        "Title": "Scenario 1",
+                        "Image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                        "ImageType": "image/jpeg",
+                        "ImageEmbeded": "false",
+                        "ImageFromUrl": "true",
+                        "Description": "Handling Uncertainty domain description...",
+                        "CorrectFeedback": "Correct!",
+                        "IncorrectFeedback": "Whoops! That doesn’t look right. Please wait a moment and try again.",
+                        "Words": [ "Uncertainty" ],
+                        "Question": "Handling Uncertainty question?",
+                        "Answer": "No"
+                    }
+                ]
+            }
+        ]
     }
 ]
