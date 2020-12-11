@@ -24,6 +24,28 @@
                         "Answer": "No"
                     }
                 ]
+            },
+            {
+                "Number": 2,
+                "Name": "Session2",
+                "Title": "Session 2",
+                "Scenarios": [
+                    {
+                        "Number": 1,
+                        "Name": "Scenario1",
+                        "Title": "Scenario 1",
+                        "Image": "https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/altocumulus.jpg",
+                        "ImageType": "image/jpeg",
+                        "ImageEmbeded": "false",
+                        "ImageFromUrl": "true",
+                        "Description": "You have a routine dentist appointment and find out that you need some tests to check the health of your gums and teeth.\n\nAfter the dentist performs the tests, you continue to lie in the dentist chair while waiting for the results.\n\nYou think your teeth and gums are probably...",
+                        "CorrectFeedback": "Correct!",
+                        "IncorrectFeedback": "Whoops! That doesn’t look right. Please wait a moment and try again.",
+                        "Words": [ "Healthy" ],
+                        "Question": "Do you think you have gum disease?",
+                        "Answer": "No"
+                    }
+                ]
             }
         ]
     },
