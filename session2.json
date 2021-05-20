@@ -1,9 +1,9 @@
 {
-    "Number": 1,
-    "Name": "Session1",
-    "Title": "Session 1",
+    "Number": 2,
+    "Name": "Session2",
+    "Title": "Session 2",
     "Subtitle": "A session",
-    "TimeToComplete": "00:10:00",
+    "TimeToComplete": "00:15:00",
     "Domains": [
         {
             "Name": "Academics",
