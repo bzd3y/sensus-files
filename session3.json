@@ -1,8 +1,8 @@
 {
-    "Number": 1,
-    "Name": "Session1",
-    "Title": "Session 1",
-    "Subtitle": "A session",
+    "Number": 3,
+    "Name": "Session3",
+    "Title": "Session 3",
+    "Subtitle": "A third session",
     "TimeToComplete": "00:02:00",
     "Domains": [
         {
